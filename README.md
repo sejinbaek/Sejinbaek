@@ -28,9 +28,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> 
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejinbaek)](https://github.com/anuraghazra/github-readme-stats)
-        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejinbaek)](https://github.com/anuraghazra/github-readme-stats)
-출처: https://hulrud.tistory.com/3 [주독야독:티스토리] </div> 
+        </div> 
     </div>
     
 
