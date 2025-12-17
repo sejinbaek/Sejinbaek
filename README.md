@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Hi!%20I'm%20Sejin🌱&animation=blinking&fontColor=000000&fontSize=60" />
+    <img width="1873" height="848" alt="Image" src="https://github.com/user-attachments/assets/41d5e255-f7f1-4247-a74a-baeac246d3ba" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
